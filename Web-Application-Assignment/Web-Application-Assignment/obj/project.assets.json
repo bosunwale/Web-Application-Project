@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John_\\OneDrive\\Desktop\\Web-Application-Assignment\\Web-Application-Assignment\\Web-Application-Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\John_\\OneDrive\\Documents\\Github WebApp\\Web-Application-Project1\\Web-Application-Assignment\\Web-Application-Assignment\\Web-Application-Assignment.csproj",
       "projectName": "Web-Application-Assignment",
-      "projectPath": "C:\\Users\\John_\\OneDrive\\Desktop\\Web-Application-Assignment\\Web-Application-Assignment\\Web-Application-Assignment.csproj",
+      "projectPath": "C:\\Users\\John_\\OneDrive\\Documents\\Github WebApp\\Web-Application-Project1\\Web-Application-Assignment\\Web-Application-Assignment\\Web-Application-Assignment.csproj",
       "packagesPath": "C:\\Users\\John_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John_\\OneDrive\\Desktop\\Web-Application-Assignment\\Web-Application-Assignment\\obj\\",
+      "outputPath": "C:\\Users\\John_\\OneDrive\\Documents\\Github WebApp\\Web-Application-Project1\\Web-Application-Assignment\\Web-Application-Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\John_\\AppData\\Roaming\\NuGet\\NuGet.Config",

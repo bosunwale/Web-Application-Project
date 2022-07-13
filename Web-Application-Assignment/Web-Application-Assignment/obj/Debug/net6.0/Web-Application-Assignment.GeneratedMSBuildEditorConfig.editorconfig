@@ -8,37 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web_Application_Assignment
 build_property.RootNamespace = Web_Application_Assignment
-build_property.ProjectDir = C:\Users\John_\OneDrive\Desktop\Web-Application-Assignment\Web-Application-Assignment\
+build_property.ProjectDir = C:\Users\John_\OneDrive\Documents\Github WebApp\Web-Application-Project1\Web-Application-Assignment\Web-Application-Assignment\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\John_\OneDrive\Desktop\Web-Application-Assignment\Web-Application-Assignment
+build_property.MSBuildProjectDirectory = C:\Users\John_\OneDrive\Documents\Github WebApp\Web-Application-Project1\Web-Application-Assignment\Web-Application-Assignment
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/John_/OneDrive/Desktop/Web-Application-Assignment/Web-Application-Assignment/Pages/Error.cshtml]
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/John_/OneDrive/Desktop/Web-Application-Assignment/Web-Application-Assignment/Pages/Index.cshtml]
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/John_/OneDrive/Desktop/Web-Application-Assignment/Web-Application-Assignment/Pages/Privacy.cshtml]
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/Intro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/John_/OneDrive/Desktop/Web-Application-Assignment/Web-Application-Assignment/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/John_/OneDrive/Desktop/Web-Application-Assignment/Web-Application-Assignment/Pages/_ViewImports.cshtml]
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/John_/OneDrive/Desktop/Web-Application-Assignment/Web-Application-Assignment/Pages/_ViewStart.cshtml]
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/John_/OneDrive/Desktop/Web-Application-Assignment/Web-Application-Assignment/Pages/Shared/_Layout.cshtml]
+[C:/Users/John_/OneDrive/Documents/Github WebApp/Web-Application-Project1/Web-Application-Assignment/Web-Application-Assignment/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yfjronmpvy
